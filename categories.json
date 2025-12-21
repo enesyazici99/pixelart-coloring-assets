@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "animals_icon",
+      "itemCount": 0,
+      "premium": false
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "icon": "nature_icon",
+      "itemCount": 0,
+      "premium": false
+    },
+    {
+      "id": "landscapes",
+      "name": "Landscapes",
+      "icon": "landscapes_icon",
+      "itemCount": 0,
+      "premium": false
+    },
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "icon": "vehicles_icon",
+      "itemCount": 0,
+      "premium": true
+    }
+  ]
+}
