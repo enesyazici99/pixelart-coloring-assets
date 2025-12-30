@@ -1,6 +1,13 @@
 {
   "categories": [
     {
+      "id": "fruits",
+      "name": "Fruits",
+      "icon": "fruits_icon",
+      "itemCount": 1,
+      "premium": false
+    },
+    {
       "id": "animals",
       "name": "Animals",
       "icon": "animals_icon",

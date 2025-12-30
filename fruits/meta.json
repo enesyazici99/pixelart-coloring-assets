@@ -1,0 +1,11 @@
+{
+  "artworks": [
+    {
+      "id": "f1",
+      "name": "Fruit 1",
+      "filename": "f1.png",
+      "colors": 10,
+      "difficulty": "easy"
+    }
+  ]
+}
