@@ -1,0 +1,40 @@
+{
+  "artworks": [
+    {
+      "id": "f1",
+      "name": "Forest 1",
+      "filename": "forest_01.png",
+      "colors": 7,
+      "difficulty": "medium",
+      "width": 29,
+      "height": 23
+    },
+    {
+      "id": "f2",
+      "name": "Forest 2",
+      "filename": "forest_02.png",
+      "colors": 1,
+      "difficulty": "easy",
+      "width": 15,
+      "height": 8
+    },
+    {
+      "id": "f3",
+      "name": "Forest 3",
+      "filename": "forest_03.png",
+      "colors": 11,
+      "difficulty": "medium",
+      "width": 28,
+      "height": 35
+    },
+    {
+      "id": "f4",
+      "name": "Forest 4",
+      "filename": "forest_04.png",
+      "colors": 8,
+      "difficulty": "medium",
+      "width": 25,
+      "height": 30
+    }
+  ]
+}

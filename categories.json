@@ -1,10 +1,10 @@
 {
   "categories": [
     {
-      "id": "fruits",
-      "name": "Fruits",
-      "icon": "fruits_icon",
-      "itemCount": 1,
+      "id": "forest",
+      "name": "Forest",
+      "icon": "forest_icon",
+      "itemCount": 4,
       "premium": false
     },
     {
