@@ -8,6 +8,13 @@
       "premium": false
     },
     {
+      "id": "items",
+      "name": "Items",
+      "icon": "items_icon",
+      "itemCount": 677,
+      "premium": false
+    },
+    {
       "id": "animals",
       "name": "Animals",
       "icon": "animals_icon",
