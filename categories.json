@@ -1,13 +1,6 @@
 {
   "categories": [
     {
-      "id": "forest",
-      "name": "Forest",
-      "icon": "forest_icon",
-      "itemCount": 4,
-      "premium": false
-    },
-    {
       "id": "items",
       "name": "Items",
       "icon": "items_icon",
